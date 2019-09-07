@@ -1,0 +1,1 @@
+ let showMessage = function() { alert('fuck me')};
